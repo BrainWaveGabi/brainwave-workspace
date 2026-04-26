@@ -1,14 +1,58 @@
-# Claude Code OS — Kit Ratos de IA
+# CLAUDE.md
 
-Este repositório é o kit de boas-vindas do curso Claude Code OS.
-
-Se você acabou de clonar esse repositório:
-1. Rode `/setup` pra configurar o sistema pro seu negócio (uns 5 minutos)
-2. Depois rode `/mapear` pra criar skills personalizadas pro que você faz no dia a dia
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ---
 
-<!-- Este arquivo será atualizado pelo /setup com o contexto do seu negócio. -->
+# BrainWave — Claude Code OS
+
+## O que é esse workspace
+Workspace operacional da BrainWave. Aqui organizamos a operação da agência, produzimos conteúdo para clientes e desenvolvemos a estratégia e comunicação própria da BrainWave.
+
+**Estrutura de pastas:**
+- `clientes/` — uma pasta por cliente com contexto, conteúdo, comercial, site e dados
+- `clientes/_modelo-cliente/` — template base pra duplicar quando chegar novo cliente
+- `brainwave/` — estratégia, site e conteúdo próprio da agência
+- `propostas/` — propostas comerciais
+- `dados/` — arquivos para análise (CSV, PDF, relatórios)
+- `tarefas.md` — lista de tarefas corrente
+- `_contexto/` — memória do sistema (não apagar)
+- `templates/skills/` — templates de skills prontos pra personalizar com /mapear
+- `templates/ferramentas/catalogo.md` — APIs e ferramentas disponíveis pra usar em skills
+
+## Sobre o negócio
+A BrainWave é uma empresa de estratégia e desenvolvimento de marketing. O posicionamento é de braço estratégico das empresas — não uma agência de posts, mas quem detém a inteligência de negócio do cliente. Dois braços de serviço: (1) estratégia de marketing — diagnóstico de cenário e mercado + plano estratégico, vendido separado; (2) gestão recorrente mensal — execução do aprovado na estratégia, com peso em produção de conteúdo digital e, em alguns clientes, estratégias comerciais.
+
+## O que fazemos aqui
+- Diagnósticos e planos estratégicos de marketing
+- Gestão de conteúdo para canais digitais de clientes (carrosséis, reels, YouTube)
+- Estratégias e fluxos comerciais (ManyChat, Kommo CRM)
+- Propostas comerciais
+- Desenvolvimento da comunicação e estratégia própria da BrainWave
+
+## Clientes e contexto
+Atende clientes externos com equipe dedicada por cliente: designer, copywriter, editor de vídeo, gestora de projeto, gestor de tráfego (quando incluso) e Gabriella. Maioria dos clientes atuais é da área de saúde, sem restrição de nicho. Cada cliente tem sua pasta em `clientes/[nome-cliente]/` com um `CLIENTE.md` que concentra o contexto específico daquele cliente.
+
+Ao trabalhar num cliente específico, ler o `CLIENTE.md` da pasta dele antes de qualquer tarefa.
+
+## Tom de voz
+Coloquial mas profissional — conversa, sem gírias, sem ser totalmente informal. Transmite conhecimento, seriedade e posicionamento claro. A BrainWave tem valores definidos: marketing é o departamento mais importante de uma empresa, não só "fazer post de internet".
+
+Evitar: qualquer coisa que soe escrito por IA, frases de contraste, travessão (—), palavras como "crucial", "mergulhe", "no mundo de hoje", "é essencial que".
+
+## Ferramentas conectadas
+- [ ] Notion (MCP disponível — ver link da base por cliente no CLIENTE.md de cada um)
+- [x] Google (Drive, Docs, etc)
+- [ ] Canva (MCP disponível)
+- [x] Gmail (MCP instalado — ver acima)
+- [x] Google Calendar (MCP instalado — usar SOMENTE a conta ffmkt.contato@gmail.com)
+- [x] Gmail (MCP instalado — usar SOMENTE a conta ffmkt.contato@gmail.com — não conectar outras contas)
+- Meta Ads (alguns clientes)
+- Google Ads (alguns clientes)
+- Opus (corte de lives)
+- Google Flow
+
+---
 
 ## Contexto do negócio
 
@@ -18,9 +62,11 @@ No início de toda conversa, ler os seguintes arquivos (se existirem e estiverem
 2. `_contexto/preferencias.md` — tom de voz, estilo de escrita, o que evitar
 3. `_contexto/estrategia.md` — foco atual, prioridades, o que pode esperar
 
+Se a conversa for sobre um cliente específico, ler também o `CLIENTE.md` da pasta daquele cliente.
+
 Usar essas informações como base pra qualquer resposta ou decisão. Ao sugerir prioridades, formatos ou abordagens, considerar o foco atual descrito em `estrategia.md`.
 
-Para qualquer tarefa visual (carrossel, proposta, slide, landing page), consultar `marca/design-guide.md` como referência de estilo.
+Para qualquer tarefa visual (carrossel, proposta, slide, landing page), consultar `marca/design-guide.md` como referência de estilo — ou o arquivo de IV indicado no `CLIENTE.md` do cliente.
 
 Não é necessário listar o que foi lido nem confirmar a leitura. Apenas usar o contexto naturalmente.
 
@@ -48,14 +94,13 @@ Quando o usuário corrigir algo, melhorar uma resposta ou dar uma instrução qu
 
 Se sim, identificar onde faz mais sentido salvar:
 
-- **Sobre o negócio** (quem são os clientes, como funciona a empresa, serviços, mercado) → adicionar em `_contexto/empresa.md`
-- **Sobre preferências e estilo** (tom de voz, formato de resposta, o que evitar, como estruturar textos) → adicionar em `_contexto/preferencias.md`
-- **Sobre prioridades e foco atual** (projetos em andamento, metas do momento, prazos importantes, o que é prioridade agora) → adicionar em `_contexto/estrategia.md`
-- **Regra de comportamento nessa pasta** (onde salvar arquivos, como nomear, fluxos específicos) → adicionar no próprio `CLAUDE.md`
+- **Sobre o negócio** → `_contexto/empresa.md`
+- **Sobre preferências e estilo** → `_contexto/preferencias.md`
+- **Sobre prioridades e foco atual** → `_contexto/estrategia.md`
+- **Sobre um cliente específico** → `clientes/[nome-cliente]/CLIENTE.md`
+- **Regra de comportamento nessa pasta** → `CLAUDE.md`
 
 Salvar com uma linha nova clara, sem reformatar o arquivo inteiro. Confirmar o que foi salvo mostrando a linha adicionada.
-
-Não perguntar se a correção for óbvia de contexto imediato (ex: "na verdade o arquivo se chama X"). Só perguntar quando a informação tiver valor duradouro.
 
 ---
 
@@ -70,6 +115,7 @@ Se sim, identificar o que precisa atualizar:
 - **Novo cliente, serviço, ferramenta, equipe** → `_contexto/empresa.md`
 - **Mudança de prioridade ou foco** → `_contexto/estrategia.md`
 - **Correção de tom ou estilo** → `_contexto/preferencias.md`
+- **Contexto específico de um cliente** → `clientes/[nome-cliente]/CLIENTE.md`
 - **Nova pasta, regra de organização, skill criada** → `CLAUDE.md`
 - **Mudança visual (cores, fontes, logo)** → `marca/design-guide.md`
 
@@ -79,8 +125,6 @@ Mostrar o que vai mudar antes de salvar. Não reformatar o arquivo inteiro, só 
 - Tarefas pontuais que não mudam o contexto (ex: escrever um email, criar um post avulso)
 - Perguntas simples ou conversas sem ação
 - Mudanças que já foram salvas pelo bloco "Aprender com correções"
-
-**Dica:** se não sabe se algo mudou, rode `/atualizar` pra uma varredura completa.
 
 ---
 
