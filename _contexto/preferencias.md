@@ -12,6 +12,7 @@ No conteúdo para clientes: copy conversacional e humano, ancorado no concreto. 
 
 - Qualquer coisa que soe como escrito por IA ("genuíno", construções rebuscadas, abstrações sem ancoragem)
 - Frases de contraste ("mas ao mesmo tempo", "por outro lado", "no entanto")
+- Estrutura "não é X. é Y." — ex: "Não é falta de força de vontade. É resistência insulínica." Evitar em todo conteúdo de clientes
 - Travessão (—)
 - Palavras: "crucial", "mergulhe", "no mundo de hoje", "é essencial que", "incrível", "revolucionário", "poderoso", "luxo"
 - Finalizações genéricas e conclusões padrão
