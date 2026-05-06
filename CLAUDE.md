@@ -10,8 +10,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 Workspace operacional da BrainWave. Aqui organizamos a operação da agência, produzimos conteúdo para clientes e desenvolvemos a estratégia e comunicação própria da BrainWave.
 
 **Estrutura de pastas:**
-- `brainwave/` — cliente interno da BrainWave (mesma estrutura dos clientes externos)
-- `dr-diler/`, `dra-isabel-carazzo/`, `dra-janaina-marchi/`, `roberta-barni/` — pasta por cliente externo
+- `CLIENTE_BrainWave/` — cliente interno da BrainWave (mesma estrutura dos clientes externos)
+- `CLIENTE_Dr-Diler/`, `CLIENTE_Dra-Isabel-Carazzo/`, `CLIENTE_Dra-Janaina-Marchi/`, `CLIENTE_Roberta-Barni/` — pasta por cliente externo
 - `clientes/_modelo-cliente/` — template base pra duplicar quando chegar novo cliente
 - `propostas/` — propostas comerciais
 - `dados/` — arquivos para análise (CSV, PDF, relatórios)
@@ -50,7 +50,7 @@ A BrainWave é uma empresa de estratégia e desenvolvimento de marketing. O posi
 - Desenvolvimento da comunicação e estratégia própria da BrainWave
 
 ## Clientes e contexto
-Atende clientes externos com equipe dedicada por cliente: designer, copywriter, editor de vídeo, gestora de projeto, gestor de tráfego (quando incluso) e Gabriella. Maioria dos clientes atuais é da área de saúde, sem restrição de nicho. A BrainWave é tratada como cliente interno — sua pasta (`brainwave/`) segue a mesma estrutura dos clientes externos. Cada cliente tem sua pasta na raiz do workspace com um `CLIENTE.md` que concentra o contexto específico daquele cliente.
+Atende clientes externos com equipe dedicada por cliente: designer, copywriter, editor de vídeo, gestora de projeto, gestor de tráfego (quando incluso) e Gabriella. Maioria dos clientes atuais é da área de saúde, sem restrição de nicho. A BrainWave é tratada como cliente interno — sua pasta (`CLIENTE_BrainWave/`) segue a mesma estrutura dos clientes externos. Cada cliente tem sua pasta na raiz do workspace com prefixo `CLIENTE_` e um `CLIENTE.md` que concentra o contexto específico daquele cliente.
 
 Ao trabalhar num cliente específico, ler o `CLIENTE.md` da pasta dele antes de qualquer tarefa.
 
