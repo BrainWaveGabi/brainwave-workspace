@@ -12,9 +12,8 @@ A BrainWave não tem comunicação ativa hoje. O perfil pessoal da Gabriella est
 
 ## Prioridades atuais
 
-1. Organizar a operação da agência (estrutura de pastas, skills por cliente, processos)
-2. Criar a comunicação própria da BrainWave (site, estratégia de conteúdo, identidade visual)
-3. Montar pastas de projetos por cliente para otimizar a produção de conteúdo
+1. **Eficiência na produção de conteúdo dos clientes** — reduzir o tempo de Gabriella no desenvolvimento de ideia, copy e referências. O Claude Code OS precisa absorver essa carga operacional antes de qualquer outra frente.
+2. **Comunicação e crescimento da BrainWave** — construir presença, ampliar captação e atrair clientes com ticket mais alto. Só entra em foco após a operação estar rodando com mais autonomia.
 
 ## Gargalos identificados na operação
 
