@@ -9,7 +9,8 @@
       "Bash(python3 -c ' *)",
       "mcp__claude_ai_Notion__notion-create-pages",
       "Read(//temp/readonly/**)",
-      "mcp__claude_ai_Notion__notion-update-page"
+      "mcp__claude_ai_Notion__notion-update-page",
+      "mcp__claude_ai_Canva__list-brand-kits"
     ]
   },
   "hooks": {
