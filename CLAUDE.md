@@ -10,15 +10,34 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 Workspace operacional da BrainWave. Aqui organizamos a operação da agência, produzimos conteúdo para clientes e desenvolvemos a estratégia e comunicação própria da BrainWave.
 
 **Estrutura de pastas:**
-- `clientes/` — uma pasta por cliente com contexto, conteúdo, comercial, site e dados
+- `brainwave/` — cliente interno da BrainWave (mesma estrutura dos clientes externos)
+- `dr-diler/`, `dra-isabel-carazzo/`, `dra-janaina-marchi/`, `roberta-barni/` — pasta por cliente externo
 - `clientes/_modelo-cliente/` — template base pra duplicar quando chegar novo cliente
-- `brainwave/` — estratégia, site e conteúdo próprio da agência
 - `propostas/` — propostas comerciais
 - `dados/` — arquivos para análise (CSV, PDF, relatórios)
 - `tarefas.md` — lista de tarefas corrente
 - `_contexto/` — memória do sistema (não apagar)
 - `templates/skills/` — templates de skills prontos pra personalizar com /mapear
 - `templates/ferramentas/catalogo.md` — APIs e ferramentas disponíveis pra usar em skills
+
+**Estrutura interna de cada cliente:**
+```
+[cliente]/
+├── CLIENTE.md
+├── comercial/
+├── conhecimento/
+├── conteudo/
+│   ├── capas/reels/
+│   ├── capas/thumbnails/
+│   ├── carrosseis/
+│   ├── google/
+│   ├── material-educativo/
+│   ├── reels/
+│   └── youtube/
+├── dados/
+├── site/
+└── trafego/
+```
 
 ## Sobre o negócio
 A BrainWave é uma empresa de estratégia e desenvolvimento de marketing. O posicionamento é de braço estratégico das empresas — não uma agência de posts, mas quem detém a inteligência de negócio do cliente. Dois braços de serviço: (1) estratégia de marketing — diagnóstico de cenário e mercado + plano estratégico, vendido separado; (2) gestão recorrente mensal — execução do aprovado na estratégia, com peso em produção de conteúdo digital e, em alguns clientes, estratégias comerciais.
@@ -31,7 +50,7 @@ A BrainWave é uma empresa de estratégia e desenvolvimento de marketing. O posi
 - Desenvolvimento da comunicação e estratégia própria da BrainWave
 
 ## Clientes e contexto
-Atende clientes externos com equipe dedicada por cliente: designer, copywriter, editor de vídeo, gestora de projeto, gestor de tráfego (quando incluso) e Gabriella. Maioria dos clientes atuais é da área de saúde, sem restrição de nicho. Cada cliente tem sua pasta em `clientes/[nome-cliente]/` com um `CLIENTE.md` que concentra o contexto específico daquele cliente.
+Atende clientes externos com equipe dedicada por cliente: designer, copywriter, editor de vídeo, gestora de projeto, gestor de tráfego (quando incluso) e Gabriella. Maioria dos clientes atuais é da área de saúde, sem restrição de nicho. A BrainWave é tratada como cliente interno — sua pasta (`brainwave/`) segue a mesma estrutura dos clientes externos. Cada cliente tem sua pasta na raiz do workspace com um `CLIENTE.md` que concentra o contexto específico daquele cliente.
 
 Ao trabalhar num cliente específico, ler o `CLIENTE.md` da pasta dele antes de qualquer tarefa.
 
