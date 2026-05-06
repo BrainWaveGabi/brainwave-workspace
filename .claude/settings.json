@@ -4,7 +4,8 @@
       "mcp__claude_ai_Gmail__list_labels",
       "Bash(mkdir -p \"/Users/gabriellafreitas/BRAINWAVE/Estudos e cursos/ccos-ratos/.claude/skills/roteiro-yt-isabel\")",
       "Bash(mkdir -p \"/Users/gabriellafreitas/BRAINWAVE/Estudos e cursos/ccos-ratos/.claude/skills/roteiro-yt-diler\")",
-      "Edit(/.claude/skills/roteiro-yt-diler/**)"
+      "Edit(/.claude/skills/roteiro-yt-diler/**)",
+      "mcp__claude_ai_Google_Drive__read_file_content"
     ]
   },
   "hooks": {
