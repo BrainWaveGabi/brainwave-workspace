@@ -4,50 +4,70 @@
 
 ---
 
-## Por que o blog faz sentido agora
+## O problema que o blog resolve
 
-O Instagram depende do algoritmo e do momento em que o post aparece. O blog não: um artigo bem posicionado continua sendo encontrado nos buscadores meses depois de publicado — sem impulsionamento, sem dependência de alcance.
+Hoje, grande parte dos pacientes encontra a Dra. Isabel pelo Google, lê as avaliações no perfil do Google Empresas e valida a decisão pelo Instagram ou YouTube antes de entrar em contato. Essa jornada funciona — e é exatamente por isso que o próximo passo é ampliar a presença no ponto em que ela começa: a busca orgânica.
 
-Para a paciente que pesquisa "implante dentário Santa Maria", "dentista com sedação" ou "o que é reabilitação oral" antes de decidir por qual profissional vai, o blog é o conteúdo que vai estar lá no momento certo. É presença digital que trabalha de forma contínua.
+O site da Dra. Isabel não tem blog nem página de FAQ. Isso significa que, quando alguém pesquisa "como superar o medo de dentista", "sedação consciente é segura" ou "o que é reabilitação oral", o site não aparece — mesmo que a resposta estivesse lá, não existe a página para recebê-la.
 
-A Dra. Isabel já tem o site, a estratégia SEO mapeada e os pilares editoriais definidos. O serviço de blog conecta tudo isso e faz o site passar a gerar tráfego qualificado de forma consistente.
+O serviço de blog cria essas páginas do zero. Cada artigo publicado é uma nova entrada permanente no site, indexada pelo Google, disponível para quem pesquisa aquele tema — hoje, daqui a seis meses, daqui a um ano.
+
+---
+
+## Por que páginas de blog e FAQ funcionam para SEO
+
+Redes sociais entregam alcance momentâneo. Uma publicação no Instagram existe enquanto o algoritmo a exibe — depois some. Um artigo de blog é diferente: fica indexado, é encontrado por buscas orgânicas e continua recebendo visitas sem nenhum investimento adicional depois de publicado.
+
+O Google também interpreta um site com conteúdo atualizado regularmente como mais relevante do que um site estático. Ter novas páginas sendo criadas de forma consistente melhora o ranqueamento do domínio como um todo — incluindo a página de agendamento e as páginas de serviços que já existem.
+
+No caso da Dra. Isabel, o foco inicial é nos termos relacionados a medo de dentista e sedação consciente. São buscas com intenção altíssima, pouquíssima concorrência local e forte conexão com o perfil de paciente que ela já converte: quem tem medo, pesquisa antes de agir e precisa ser acolhido antes de marcar consulta.
 
 ---
 
 ## O que está incluído
 
-Cada artigo publicado passa por todas as etapas abaixo — não é só redação:
+**2 artigos por mês**, publicados quinzenalmente, com o seguinte escopo em cada um:
 
-### 1. Pesquisa e estratégia de SEO
-Antes de escrever uma palavra, identificamos o termo certo para aquele artigo: volume de busca mensal, intenção de quem pesquisa (informação, comparação ou decisão), nível de concorrência e potencial de posicionamento. Isso garante que o artigo vai atrair o perfil de paciente que interessa — não só visitas genéricas.
+### Pesquisa e estratégia de SEO
+Antes de escrever, identificamos o termo certo para aquele artigo: volume de busca mensal, intenção de quem pesquisa, nível de concorrência e potencial de posicionamento. Isso garante que cada página criada vai ao ar com propósito — não só para existir, mas para ser encontrada.
 
-### 2. Produção do conteúdo
-Redação do artigo completo (800 a 1.200 palavras) em linguagem acessível, alinhada ao tom de voz da Dra. Isabel e com embasamento clínico quando o tema exige. O texto é escrito para leitura humana e para buscadores ao mesmo tempo — sem parecer técnico demais, sem parecer raso.
+### Produção do conteúdo
+Redação do artigo completo (800 a 1.200 palavras) em linguagem acessível, alinhada ao tom de voz da Dra. Isabel e com embasamento clínico quando o tema exige.
 
-### 3. Otimização SEO on-page
-Estrutura de headings (H1, H2, H3), palavra-chave principal e variações no corpo do texto, meta description, título otimizado, links internos para outras páginas do site e links externos para referências relevantes. Esse conjunto é o que determina como o Google vai interpretar e ranquear o artigo.
+### Otimização SEO on-page
+Estrutura de headings (H1, H2, H3), palavra-chave principal e variações no corpo do texto, meta description, título otimizado, links internos para páginas de serviço e CTA para agendamento. Esse conjunto determina como o Google interpreta e ranqueia o artigo.
 
-### 4. Adaptação e formatação para web
-O texto passa por uma etapa de formatação editorial para leitura online: parágrafos curtos, destaques visuais, estrutura que facilita a leitura rápida e mantém o leitor na página. Inclui seleção ou indicação de imagem de capa e alt text otimizado para SEO.
+### Seção de FAQ
+Cada artigo incluirá uma seção de perguntas frequentes ao final, estruturada com marcação técnica (schema markup) que aumenta a chance de o conteúdo aparecer como resposta direta no Google — acima dos resultados orgânicos — para perguntas como "sedação consciente é segura?" ou "como é feito o implante dentário?".
 
-### 5. Publicação e configuração no site
-Publicação direta no WordPress da Dra. Isabel, com configuração completa do post: categoria, tags, slug amigável para SEO, imagem de capa e revisão visual antes de publicar. Esse tempo de programação garante que tudo o que foi construído nas etapas anteriores seja aplicado corretamente — um artigo mal configurado não ranqueia, mesmo com conteúdo bom.
+### Adaptação e formatação para web
+Parágrafos curtos, destaques visuais e estrutura que facilita leitura rápida na tela. Inclui seleção ou indicação de imagem de capa e alt text otimizado para SEO.
+
+### Publicação e configuração no site
+Publicação direta no WordPress com configuração completa: categoria, tags, slug amigável, imagem de capa e revisão visual antes de publicar. Um artigo mal configurado tecnicamente não ranqueia, mesmo com conteúdo bom. Esse tempo de programação garante que tudo funcione como deve.
 
 ---
 
-## Frequência e entrega
+## Temas prioritários para os primeiros meses
 
-**2 artigos por mês**, publicados quinzenalmente.
+A estratégia começa pelos termos de medo e sedação — que são a porta de entrada da jornada da paciente e o principal diferencial de conversão da Dra. Isabel.
 
-A frequência quinzenal é o ponto de entrada ideal: consistente o suficiente para o Google reconhecer o site como ativo, sem sobrecarregar o processo de aprovação. Os resultados em SEO começam a aparecer entre 60 e 90 dias após as primeiras publicações.
+**Mês 1**
+1. Como superar o medo de ir ao dentista — e por que adiar piora tudo *(topo — captura quem pesquisa antes de agir)*
+2. O que é sedação consciente no dentista e quando é indicada *(meio — explica o diferencial e prepara para a decisão)*
 
-Os temas são definidos mensalmente com base na estratégia de palavras-chave existente e no calendário de conteúdo — cada artigo tem um objetivo claro dentro do funil de atendimento.
+**Mês 2**
+1. Implante dentário com sedação: como funciona e para quem é indicado *(meio-fundo)*
+2. O que acontece com o osso depois que o dente é perdido — e por que o implante precisa ser feito logo *(meio-fundo)*
+
+**Mês 3 em diante**
+Ampliamos para os outros pilares: estética dental, reabilitação oral, educação e prevenção — sempre com base na estratégia SEO existente e no calendário de conteúdo mensal.
 
 ---
 
 ## O que não está incluído
 
-Este serviço considera que a página de blog no site já está estruturada e funcional. Caso seja necessário criar ou configurar a área de blog no site, esse é um serviço à parte que pode ser orçado separadamente.
+Este serviço considera que a área de blog no site será estruturada previamente. A criação e configuração da página de blog no WordPress — template, categorias, layout, integração com o menu do site — é uma etapa técnica separada que pode ser orçada à parte antes do início.
 
 ---
 
@@ -55,7 +75,7 @@ Este serviço considera que a página de blog no site já está estruturada e fu
 
 **R$ 500,00 por mês**
 
-Inclui: 2 artigos por mês com pesquisa de palavra-chave, estratégia SEO, produção do conteúdo, otimização on-page, formatação editorial e publicação configurada no site.
+Inclui: 2 artigos por mês com pesquisa de palavra-chave, estratégia SEO, produção do conteúdo, otimização on-page, seção de FAQ com schema markup, formatação editorial e publicação configurada no site.
 
 | Serviço | Valor mensal |
 |---------|-------------|
@@ -64,8 +84,10 @@ Inclui: 2 artigos por mês com pesquisa de palavra-chave, estratégia SEO, produ
 | Blog com SEO — 2 artigos/mês | R$ 500,00 |
 | **Total** | **R$ 4.100,00** |
 
+Os resultados de SEO orgânico se consolidam entre 60 e 90 dias após as primeiras publicações. A frequência quinzenal é o ponto de entrada ideal: consistente o suficiente para o Google reconhecer o site como ativo, sem comprometer o processo de aprovação.
+
 ---
 
 ## Próximos passos
 
-Após aceite, formalizamos o serviço como aditivo ao contrato vigente. A primeira entrega ocorre dentro do mês seguinte ao início.
+Após aceite, formalizamos como aditivo ao contrato vigente. Antes da primeira publicação, definimos juntos o calendário dos primeiros dois meses e alinhamos o acesso ao WordPress para publicação.
