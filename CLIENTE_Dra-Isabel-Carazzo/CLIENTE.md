@@ -12,6 +12,48 @@
 
 ---
 
+## Contrato
+
+### Contrato atual (renovação)
+- **Vigência:** 06/12/2025 a 05/12/2026 (12 meses)
+- **Gestão de conteúdo e assessoria digital:** R$ 2.600/mês
+- **Gestão de tráfego pago (Meta Ads + Google Ads):** R$ 1.200/mês
+- **Total mensal:** R$ 3.800/mês
+- **Pagamento:** boletos separados, emitidos até dia 10 de cada mês (primeiro: 10/12/2025)
+- **Reajuste:** IGPM anual após 12 meses
+- Demais cláusulas do contrato original (06/03/2025) permanecem válidas
+
+### Entregáveis mensais incluídos (do contrato original — Anexo I)
+- 8 conteúdos para Instagram/mês (pesquisa, copy e design)
+- Calendário de stories
+- 4 roteiros YouTube/mês + sugestão de nugget
+- 4 thumbnails YouTube/mês
+- 4 legendas para reels nugget (derivados do YT)/mês
+- SEO e publicação de vídeos no YouTube (4/mês)
+- Publicação e monitoramento em todos os canais
+- Publicação do conteúdo Instagram em outras plataformas
+- Configuração e acompanhamento do Google Meu Negócio
+- Acompanhamento com gestor de tráfego
+
+### O que NÃO está incluído (conforme contrato)
+- Edição de vídeos para YouTube
+- Artigos de blog
+
+### Tabela de serviços avulsos (valores de referência do contrato original)
+| Serviço | Valor |
+|---------|-------|
+| Texto Blog + SEO | R$ 200/unidade |
+| Edição vídeo curto (até 90s) | R$ 150/unidade |
+| Edição vídeo curto (até 90s) + SEO | R$ 190/unidade |
+| Edição vídeo longo (até 10 min) + SEO | R$ 230/unidade |
+| Carrossel até 6 cards | R$ 120/unidade |
+| Carrossel 7+ cards | R$ 160/unidade |
+| Card estático / Capa reels / Thumb | R$ 70/unidade |
+| Legenda para Instagram | R$ 70/unidade |
+| Layout PDF / Ebook | R$ 25/página |
+
+---
+
 ## Canais
 
 - **Site:** https://draisabelcarazzo.com.br
