@@ -1,93 +1,71 @@
-# Proposta — Serviço de Blog para Dra. Isabel Carazzo
-**Data:** maio/2026
-**Status:** rascunho para aprovação interna
+# Proposta de Serviço — Blog com SEO
+**Dra. Isabel Carazzo | BrainWave Assessoria de Marketing**
+**Maio de 2026**
 
 ---
 
-## Contexto
+## Por que o blog faz sentido agora
 
-O blog não está incluído no contrato atual da Dra. Isabel (renovação vigente: 06/12/2025 a 05/12/2026, R$ 3.800/mês). A proposta abaixo é para um serviço de blog estruturado, com frequência quinzenal nos primeiros meses, a ser aditivado ao contrato em vigência.
+O Instagram depende do algoritmo e do momento em que o post aparece. O blog não: um artigo bem posicionado continua sendo encontrado nos buscadores meses depois de publicado — sem impulsionamento, sem dependência de alcance.
 
----
+Para a paciente que pesquisa "implante dentário Santa Maria", "dentista com sedação" ou "o que é reabilitação oral" antes de decidir por qual profissional vai, o blog é o conteúdo que vai estar lá no momento certo. É presença digital que trabalha de forma contínua.
 
-## Por que faz sentido para a Isabel agora
-
-O site já existe, a estratégia SEO está documentada com mais de 120 keywords mapeadas por funil. O blog é o que faz o site trabalhar: cada artigo é uma porta de entrada orgânica nos momentos em que o paciente está pesquisando — antes de marcar consulta, antes de decidir por qual profissional ir.
-
-Os pilares editoriais já estão definidos. Os artigos produzidos em 2025 mostram que o formato já foi testado com ela. O que a proposta faz é tornar isso recorrente, planejado e com SEO consistente.
+A Dra. Isabel já tem o site, a estratégia SEO mapeada e os pilares editoriais definidos. O serviço de blog conecta tudo isso e faz o site passar a gerar tráfego qualificado de forma consistente.
 
 ---
 
 ## O que está incluído
 
-**2 artigos por mês (publicação quinzenal)**, com o seguinte escopo:
+Cada artigo publicado passa por todas as etapas abaixo — não é só redação:
 
-| Entregável | Detalhamento |
-|------------|-------------|
-| Pesquisa de palavra-chave | Seleção do termo prioritário com base na estratégia SEO existente — volume, intenção e dificuldade |
-| Redação do artigo | Texto completo (800 a 1.200 palavras), linguagem acessível, tom da Isabel, com embasamento clínico quando necessário |
-| Otimização SEO on-page | Título, meta description, headings (H1/H2/H3), palavra-chave no corpo, links internos e externos |
-| Publicação no site | Publicação direta no WordPress, com imagem de capa e formatação |
+### 1. Pesquisa e estratégia de SEO
+Antes de escrever uma palavra, identificamos o termo certo para aquele artigo: volume de busca mensal, intenção de quem pesquisa (informação, comparação ou decisão), nível de concorrência e potencial de posicionamento. Isso garante que o artigo vai atrair o perfil de paciente que interessa — não só visitas genéricas.
 
----
+### 2. Produção do conteúdo
+Redação do artigo completo (800 a 1.200 palavras) em linguagem acessível, alinhada ao tom de voz da Dra. Isabel e com embasamento clínico quando o tema exige. O texto é escrito para leitura humana e para buscadores ao mesmo tempo — sem parecer técnico demais, sem parecer raso.
 
-## Temas sugeridos para os primeiros meses
+### 3. Otimização SEO on-page
+Estrutura de headings (H1, H2, H3), palavra-chave principal e variações no corpo do texto, meta description, título otimizado, links internos para outras páginas do site e links externos para referências relevantes. Esse conjunto é o que determina como o Google vai interpretar e ranquear o artigo.
 
-**Mês 1**
-1. O que é sedação consciente no dentista e quando é indicada *(meio — conversão)*
-2. O que acontece com o osso depois que o dente é perdido — e por que o implante precisa ser feito logo *(meio-fundo)*
+### 4. Adaptação e formatação para web
+O texto passa por uma etapa de formatação editorial para leitura online: parágrafos curtos, destaques visuais, estrutura que facilita a leitura rápida e mantém o leitor na página. Inclui seleção ou indicação de imagem de capa e alt text otimizado para SEO.
 
-**Mês 2**
-1. Facetas de porcelana ou resina: qual é a diferença e qual dura mais *(topo-meio)*
-2. Por que o dente sangra ao escovar — e quando isso é sinal de alerta *(topo)*
-
-*(os temas são definidos mensalmente com base na estratégia SEO e no calendário de conteúdo)*
+### 5. Publicação e configuração no site
+Publicação direta no WordPress da Dra. Isabel, com configuração completa do post: categoria, tags, slug amigável para SEO, imagem de capa e revisão visual antes de publicar. Esse tempo de programação garante que tudo o que foi construído nas etapas anteriores seja aplicado corretamente — um artigo mal configurado não ranqueia, mesmo com conteúdo bom.
 
 ---
 
-## Precificação
+## Frequência e entrega
 
-### Pacote Blog — Plano Quinzenal
-**R$ 500/mês**
+**2 artigos por mês**, publicados quinzenalmente.
 
-Inclui: 2 artigos/mês com pesquisa de KW + redação + SEO on-page + publicação no site.
+A frequência quinzenal é o ponto de entrada ideal: consistente o suficiente para o Google reconhecer o site como ativo, sem sobrecarregar o processo de aprovação. Os resultados em SEO começam a aparecer entre 60 e 90 dias após as primeiras publicações.
 
-**Por que esse valor:**
-
-Serviço recorrente contratado tem uma lógica diferente de adicional avulso. O que justifica o preço acessível é exatamente isso: já conhecemos profundamente a Isabel, a estratégia está pronta, o tom de voz está mapeado. O custo de entrada — que em qualquer outra contratação seria cobrado — não existe aqui.
-
-O pacote garante regularidade, planejamento e qualidade consistente por R$ 250 por artigo publicado.
-
-| Serviço | Valor atual |
-|---------|------------|
-| Gestão de conteúdo e assessoria digital | R$ 2.600/mês |
-| Gestão de tráfego pago | R$ 1.200/mês |
-| **Blog (quinzenal) — novo** | **R$ 500/mês** |
-| **Total** | **R$ 4.100/mês** |
+Os temas são definidos mensalmente com base na estratégia de palavras-chave existente e no calendário de conteúdo — cada artigo tem um objetivo claro dentro do funil de atendimento.
 
 ---
 
-## Como apresentar para a Isabel
+## O que não está incluído
 
-### Argumento central
-
-O Instagram depende do algoritmo. O blog não: um artigo bem ranqueado traz visitas orgânicas meses depois de publicado. Para o paciente que pesquisa "implante dentário Santa Maria" ou "dentista com sedação Santa Maria" antes de decidir, o blog é o conteúdo que vai estar lá — no momento certo, no canal certo.
-
-A frequência quinzenal é o ponto de entrada ideal: consistência sem sobrecarga, resultado visível nos primeiros 90 dias.
-
-### Abertura sugerida (reunião mensal)
-
-> "Isabel, quero te apresentar uma proposta de blog — algo que complementa o que a gente já faz e que vai fazer o site trabalhar de um jeito diferente. A ideia é publicar dois artigos por mês, focados nas buscas que os pacientes fazem antes de agendar. A gente já tem toda a estratégia mapeada — é só colocar em prática."
-
-### Objeção provável: "não sei se o site está pronto pra isso"
-
-> "A gente cuida de tudo: pesquisa, redação, SEO e publicação. Você só lê e aprova o texto. O resultado fica no site para sempre e continua sendo encontrado nos buscadores com o tempo."
+Este serviço considera que a página de blog no site já está estruturada e funcional. Caso seja necessário criar ou configurar a área de blog no site, esse é um serviço à parte que pode ser orçado separadamente.
 
 ---
 
-## Próximos passos (interno)
+## Investimento
 
-- [ ] Gabriella aprova rascunho
-- [ ] Definir momento de apresentação (reunião mensal ou mensagem prévia)
-- [ ] Aditivo contratual simples após aceite
-- [ ] Avaliar após 3 meses se faz sentido expandir para 4 artigos/mês
+**R$ 500,00 por mês**
+
+Inclui: 2 artigos por mês com pesquisa de palavra-chave, estratégia SEO, produção do conteúdo, otimização on-page, formatação editorial e publicação configurada no site.
+
+| Serviço | Valor mensal |
+|---------|-------------|
+| Gestão de conteúdo e assessoria digital | R$ 2.600,00 |
+| Gestão de tráfego pago (Meta Ads + Google Ads) | R$ 1.200,00 |
+| Blog com SEO — 2 artigos/mês | R$ 500,00 |
+| **Total** | **R$ 4.100,00** |
+
+---
+
+## Próximos passos
+
+Após aceite, formalizamos o serviço como aditivo ao contrato vigente. A primeira entrega ocorre dentro do mês seguinte ao início.
