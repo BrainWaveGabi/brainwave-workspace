@@ -35,8 +35,9 @@
 
 ## Público-alvo
 
-- Mulheres brasileiras, 25–55 anos
-- Muitas já passaram por vários médicos, chegam cansadas, confusas, desacreditadas
+- Mulheres brasileiras, 25–55 anos, que apresentam sintomas de endometriose não diagnosticada
+- Mulheres, a maioria paciente, que começa a entrar no climaterio e menopausa, e apresenta os sintomas e dores classicas
+- Muitas, das que tem sintomas da endometriose, já passaram por vários médicos, chegam cansadas, confusas, desacreditadas
 - Dores: dor crônica (menstrual, intestinal, sexual, urinária), diagnóstico tardio ou errado, sensação de não serem levadas a sério, medo de infertilidade, frustração com tratamentos anteriores
 - Estado emocional: dor física + desgaste emocional. Buscam explicação clara, não dica rápida
 - Poder aquisitivo médio-alto, muitas buscando atendimento particular ou convênios específicos
@@ -50,15 +51,16 @@
 
 ## Tom de voz
 
-Clínico, autoritativo, preciso, contido. Conversa direta — quase como consultório. Sério mas não frio. Acessível mas não raso. Nunca vendedor — sempre educador.
+Clínico mas traduzido para a paciente leiga, preciso, educativo. Conversa direta — quase como consultório. Sério mas não frio. Acessível mas não raso. Nunca vendedor — sempre educador.
 
 **Como ele fala:**
-- Começa de algo que a paciente pensa ou fala: "Doutor, isso é normal?", "Achei que era só cólica…"
+- Começa de algo que a paciente pensa ou fala: "Doutor, isso é normal?", "Achei que era só cólica…" ou começa com uma afirmação.
 - Explica com lógica, não só afirmação: "isso acontece porque…" — sempre existe causa, mecanismo, raciocínio
 - Mostra variação de casos: "Tem mulher que sente X… tem mulher que nunca sentiu nada." — evita generalização
 - Traz complexidade sem confundir: médico inteligente explicando pra alguém fora da área
 - Quebra expectativa: começa numa direção e vira. Ex: "Na teoria parece que melhora… mas na prática não é bem assim"
 - Frases curtas e diretas
+- Frequentemente faz analogias para facilitar o entendimento comum.
 - Usa [DESTAQUE NA TELA] para fixar a ideia principal nos vídeos
 - Perspectiva: médico homem falando para pacientes mulheres — concordância de gênero nos roteiros deve ser consistente
 
