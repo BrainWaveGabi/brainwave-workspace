@@ -20,6 +20,7 @@ description: >
 - `clientes/roberta-barni/conhecimento/` — transcrições, lives, entrevistas, referências
 - `_contexto/preferencias.md` — regras gerais de escrita
 - `.claude/skills/planejar-conteudo/diretrizes-conselhos.md` — diretrizes do CFP (consulta)
+- `.claude/skills/voz-roberta/SKILL.md` — guia completo de voz e estilo (ler antes de gerar qualquer copy)
 
 ---
 
