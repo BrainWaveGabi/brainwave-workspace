@@ -96,7 +96,6 @@ Para cada conteúdo, gerar e apresentar para aprovação:
 
 **Legenda:**
 [aprofunda o conteúdo — não resume nem repete]
-Este conteúdo é informativo e não substitui o acompanhamento psicológico.
 
 #hashtag1 #hashtag2 #hashtag3 #hashtag4 #hashtag5
 
@@ -118,7 +117,7 @@ Só criar o card no Notion após confirmação explícita. Ao criar, usar o camp
 - Hook funciona com e sem som
 - Legenda aprofunda — nunca resume
 - 5 hashtags em todas as legendas
-- Disclaimer obrigatório em toda legenda
+- Sem disclaimer — a Roberta não usa
 - No Notion: usar campo TEMAS, não Linha editorial
 - Confirmar plano do mês antes de gerar copy
 - Criar card no Notion só após aprovação explícita
