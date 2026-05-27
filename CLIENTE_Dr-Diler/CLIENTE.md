@@ -201,14 +201,21 @@ Mostrar capacidade técnica e gerar confiança real para decisão cirúrgica.
 Usadas pela skill `/pesquisar-ideias-diler` além das fontes científicas padrão.
 
 ### Sites e blogs
-*(adicionar URLs quando indicadas)*
+*(fontes específicas para pesquisa — além das científicas padrão já cobertas pela skill)*
 
-| Site | Tema / motivo |
-|------|--------------|
-| — | — |
+| Site | URL | Tema / motivo |
+|------|-----|--------------|
+| Instituto Crispi | https://institutocrispi.com.br | Blog de endometriose e cirurgia minimamente invasiva — referência nacional |
+| Colégio Brasileiro de Cirurgiões (CBC) | https://cbc.org.br | Diretrizes e publicações sobre modalidades cirúrgicas |
+| Revista do CBC | https://www.revistadocbc.org.br | Publicações científicas do CBC — artigos e estudos cirúrgicos |
+| FEBRASGO | https://www.febrasgo.org.br | Federação Brasileira de Ginecologia e Obstetrícia — diretrizes nacionais |
+| Harvard Health Publishing | https://www.health.harvard.edu | Conteúdo médico de referência para pacientes (saúde feminina, menopausa, hormonios) |
+| NEJM (New England Journal of Medicine) | https://www.nejm.org | Estudos clínicos de referência internacional |
+| The Lancet | https://www.thelancet.com | Estudos clínicos de referência internacional |
+| MedScape | https://www.medscape.com | Notícias e guidelines médicos atualizados |
 
 ### Canais do YouTube
-*(adicionar URLs quando indicados)*
+*(adicionar quando indicados — URLs específicas de canais de referência para o Dr. Diler acompanhar)*
 
 | Canal | URL | Especialidade |
 |-------|-----|---------------|
