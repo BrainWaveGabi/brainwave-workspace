@@ -196,6 +196,33 @@ Mostrar capacidade técnica e gerar confiança real para decisão cirúrgica.
 
 ---
 
+## Fontes de pesquisa — específicas do cliente
+
+Usadas pela skill `/pesquisar-ideias-diler` além das fontes científicas padrão.
+
+### Sites e blogs
+*(adicionar URLs quando indicadas)*
+
+| Site | Tema / motivo |
+|------|--------------|
+| — | — |
+
+### Canais do YouTube
+*(adicionar URLs quando indicados)*
+
+| Canal | URL | Especialidade |
+|-------|-----|---------------|
+| — | — | — |
+
+### Perfis no X / Twitter
+*(adicionar handles quando indicados)*
+
+| Perfil | Handle | Especialidade |
+|--------|--------|---------------|
+| — | — | — |
+
+---
+
 ## Compliance CFM — Resolução 2336/2023
 
 - Sem promessas de cura ou resultado garantido
