@@ -214,12 +214,20 @@ Usadas pela skill `/pesquisar-ideias-diler` além das fontes científicas padrã
 | The Lancet | https://www.thelancet.com | Estudos clínicos de referência internacional |
 | MedScape | https://www.medscape.com | Notícias e guidelines médicos atualizados |
 
-### Canais do YouTube
-*(adicionar quando indicados — URLs específicas de canais de referência para o Dr. Diler acompanhar)*
+### Médicos de referência — YouTube e redes sociais
+*(buscar conteúdo desses profissionais por tema: vídeos, posts, entrevistas, lives)*
 
-| Canal | URL | Especialidade |
-|-------|-----|---------------|
-| — | — | — |
+| Médico | YouTube | Instagram | Foco principal |
+|--------|---------|-----------|----------------|
+| Dr. Diler (próprio canal) | https://www.youtube.com/@endotalk_drdiler | @dr_diler | Endometriose, cirurgia, TRH |
+| Dr. André Vinícius | https://www.youtube.com/@dr.andrevinicius | @dr.andrevinicius | Endometriose, saúde feminina |
+| Dr. Ítalo Rachid | https://www.youtube.com/channel/UCJCVk4QPzj7XmknwDIxp5Yg | — | Reposição hormonal, longevidade |
+| Dra. Ju Bicca (Juliana Bicca) | https://www.youtube.com/channel/UC0UK94c7bPnhRwhwTZUd-lQ | — | Endocrinologia, nutrição, TRH |
+| Dra. Joele Lerípio | https://www.youtube.com/channel/UCnu_I5E6GPVmmTX7nTjk1Aw | @drajoeleleripio_menopausa | Menopausa, reposição hormonal |
+| Dra. Ana Claudia Siqueira | https://www.youtube.com/@DraAnaClaudiaSiqueira | @dra.anaclaudiasiqueira | Climatério, menopausa, endometriose |
+| Dra. Ana Beatriz Barbosa | https://www.youtube.com/@anabeatrizbsilva | @draanabeatrizb | Ginecologia, obstetrícia |
+
+**Como usar:** ao pesquisar um tema, buscar o que esses médicos já produziram — identificar ângulos abordados, lacunas, abordagens diferentes, dados usados. O objetivo é gerar conteúdo que dialogue com (e diferencie) o Dr. Diler, não que replique.
 
 ### Perfis no X / Twitter
 *(adicionar handles quando indicados)*
