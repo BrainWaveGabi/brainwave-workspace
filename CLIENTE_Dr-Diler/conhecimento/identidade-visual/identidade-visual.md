@@ -47,10 +47,10 @@ Gabi arrasta as fotos aqui. São as imagens prontas para usar nos criativos sem 
 **Folder ID:** `1BadWq_5NtUJZi7lmVL_Nm_AAja2Cf5xV`
 A pasta contém subpastas organizadas por data. **Sempre priorizar as subpastas mais recentes** quando não houver indicação específica de qual usar.
 
-## Banco de imagens
+## Referências criativas
 
-**Pasta local:** `conhecimento/banco-imagens/`
-Imagens de apoio — fundos, texturas, elementos visuais sem o Dr. Diler. Gabi pode arrastar imagens aqui quando quiser deixar algo disponível para uso recorrente.
+**Pasta local:** `conhecimento/referencias-criativas/`
+Referências de estilo enviadas durante as sessões de produção. Banco construído de forma incremental — sempre que Gabi mandar uma referência aprovada durante um criativo, salvar aqui com nome descritivo (ex: `card-fundo-escuro-numero-grande.jpg`). Objetivo: diversificar layouts mantendo cores e fontes da IV.
 
 ## Fluxo de escolha de imagem para criativos
 
