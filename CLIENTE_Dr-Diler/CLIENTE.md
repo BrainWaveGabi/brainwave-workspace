@@ -1,4 +1,28 @@
 # Dr. Diler — Contexto
+## CAMINHOS DE PASTA
+
+BASE: ~/BRAINWAVE/Estudos e cursos/ccos-ratos/CLIENTE_Dr-Diler
+
+### Identidade visual
+~/BRAINWAVE/Estudos e cursos/ccos-ratos/CLIENTE_Dr-Diler/conhecimento/identidade-visual
+
+### Referências de layout
+~/BRAINWAVE/Estudos e cursos/ccos-ratos/CLIENTE_Dr-Diler/conteudo/referencias-layout
+(criar essa pasta se não existir)
+
+### Fotos do cliente
+~/BRAINWAVE/Estudos e cursos/ccos-ratos/CLIENTE_Dr-Diler/conhecimento/fotos-cliente
+(criar essa pasta se não existir)
+
+### Banco de imagens
+~/BRAINWAVE/Estudos e cursos/ccos-ratos/CLIENTE_Dr-Diler/conhecimento/banco-imagens
+(criar essa pasta se não existir)
+
+### Criativos gerados — carrosséis
+~/BRAINWAVE/Estudos e cursos/ccos-ratos/CLIENTE_Dr-Diler/conteudo/estaticos/carrosseis
+
+### Criativos gerados — capas
+~/BRAINWAVE/Estudos e cursos/ccos-ratos/CLIENTE_Dr-Diler/conteudo/estaticos/capas
 
 **Nome completo:** Dr. Diler Pereira da Silva | CRM 680249 RJ
 **Especialidade:** Ginecologia e Obstetrícia — endometriose, cirurgia pélvica de alta complexidade, TRH

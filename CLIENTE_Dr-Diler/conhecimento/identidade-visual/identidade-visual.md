@@ -40,17 +40,32 @@ O manual de IV já contém exemplos de aplicação, orientações de cores e fon
 
 ## Fotos do Dr. Diler
 
-**Pasta principal:** [Drive — Fotos Dr. Diler](https://drive.google.com/drive/folders/1BadWq_5NtUJZi7lmVL_Nm_AAja2Cf5xV)
-**Folder ID:** `1BadWq_5NtUJZi7lmVL_Nm_AAja2Cf5xV`
+**Pasta local (uso direto na produção):** `conhecimento/fotos-cliente/`
+Gabi arrasta as fotos aqui. São as imagens prontas para usar nos criativos sem precisar buscar no Drive.
 
+**Pasta principal no Drive:** [Drive — Fotos Dr. Diler](https://drive.google.com/drive/folders/1BadWq_5NtUJZi7lmVL_Nm_AAja2Cf5xV)
+**Folder ID:** `1BadWq_5NtUJZi7lmVL_Nm_AAja2Cf5xV`
 A pasta contém subpastas organizadas por data. **Sempre priorizar as subpastas mais recentes** quando não houver indicação específica de qual usar.
+
+## Banco de imagens
+
+**Pasta local:** `conhecimento/banco-imagens/`
+Imagens de apoio — fundos, texturas, elementos visuais sem o Dr. Diler. Gabi pode arrastar imagens aqui quando quiser deixar algo disponível para uso recorrente.
+
+## Fluxo de escolha de imagem para criativos
+
+Ao criar qualquer peça, seguir essa ordem de decisão:
+
+1. **Foto do Dr. Diler especificada** → Gabi envia o link do Drive ou descreve para buscar na pasta `fotos-cliente/` ou no Drive
+2. **Foto do Dr. Diler sem especificação** → usar o que estiver em `fotos-cliente/`; se vazia, buscar na subpasta mais recente do Drive
+3. **Imagem de banco / AI** → descrita no briefing do conteúdo; usar `banco-imagens/` se já tiver algo adequado, senão gerar ou buscar conforme o briefing indicar
 
 ## Referências visuais durante a produção
 
 Durante a criação de conteúdo, Gabi pode enviar imagens de referência visual diretamente na conversa. Quando isso acontecer:
 
 1. Usar a referência enviada como base para aquela peça
-2. Se Gabi indicar que a referência pode ser salva (ex: "salva isso como referência"), registrar o arquivo nessa seção com uma descrição curta do que representa
+2. Se Gabi indicar que a referência pode ser salva, registrar o arquivo nessa seção com uma descrição curta do que representa
 
 ### Referências salvas
 
