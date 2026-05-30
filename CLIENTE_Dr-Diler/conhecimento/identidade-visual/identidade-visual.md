@@ -33,6 +33,11 @@
 | Manual de Identidade Visual (PDF) | [Abrir](https://drive.google.com/file/d/1IoA_lKMJHytdchkErzyp9mcRG5TxhwBl/view) | `1IoA_lKMJHytdchkErzyp9mcRG5TxhwBl` |
 | Logo | [Abrir](https://drive.google.com/file/d/1nOArF10T63eWNG-M6vY3Nn9AgZ1ZaB8s/view) | `1nOArF10T63eWNG-M6vY3Nn9AgZ1ZaB8s` |
 
+**Pasta de elementos de IV (inclui elementos do YouTube):** [Drive — IV Dr. Diler](https://drive.google.com/drive/folders/1MfZT-09yOCw64HKJcNxtKY5itMV1j4NO)
+**Folder ID:** `1MfZT-09yOCw64HKJcNxtKY5itMV1j4NO`
+
+O manual de IV já contém exemplos de aplicação, orientações de cores e fontes — consultar antes de produzir qualquer peça.
+
 ## Fotos do Dr. Diler
 
 **Pasta principal:** [Drive — Fotos Dr. Diler](https://drive.google.com/drive/folders/1BadWq_5NtUJZi7lmVL_Nm_AAja2Cf5xV)
@@ -40,7 +45,13 @@
 
 A pasta contém subpastas organizadas por data. **Sempre priorizar as subpastas mais recentes** quando não houver indicação específica de qual usar.
 
-## Exemplos de criativos
+## Referências visuais durante a produção
 
-> **Pendente** — adicionar link da pasta do Drive com os criativos aprovados para referência de base.
-<!-- ADICIONAR: folder ID da pasta com exemplos de criativos -->
+Durante a criação de conteúdo, Gabi pode enviar imagens de referência visual diretamente na conversa. Quando isso acontecer:
+
+1. Usar a referência enviada como base para aquela peça
+2. Se Gabi indicar que a referência pode ser salva (ex: "salva isso como referência"), registrar o arquivo nessa seção com uma descrição curta do que representa
+
+### Referências salvas
+
+*(Nenhuma referência salva ainda — serão adicionadas conforme enviadas durante a produção)*
