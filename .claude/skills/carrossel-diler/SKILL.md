@@ -60,7 +60,7 @@ CLIENTE_Dr-Diler/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/
 | **3–5 — Desenvolvimento** | Explica o mecanismo, mostra variação de casos | 1 ideia por slide, com lógica: "isso acontece porque…". Permitido ter "tem mulher que X… tem mulher que Y" |
 | **6 — Contraponto** | Quebra expectativa ou desfaz crença errada | "Na teoria parece que… mas na prática não é bem assim." Reforça diferenciação clínica |
 | **7–8 — Implicação** | O que isso muda para quem está lendo | Direto, sem clichê. Validação da paciente se pertinente |
-| **Último — CTA** | Ação leve | Compartilhar / salvar / comentar. Nunca "agende agora" no orgânico |
+| **Último — CTA** | Ação leve | Compartilhar / salvar / comentar. Nunca "agende agora" no orgânico. Quando o CTA envolver agendamento de consulta, contato ou direcionamento para atendimento, usar imagem do Dr. Diler nesse slide (ver Fase 3). Exceções permitidas mediante indicação explícita |
 
 **Regras de texto:**
 - Frases curtas e diretas — estilo fala, não artigo
@@ -103,6 +103,12 @@ CLIENTE_Dr-Diler/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/
   - `card-bordado` — card com borda dourada e fundo levemente diferente
   - `imagem-fundo` — texto sobre imagem com gradiente e sombra forte
 - **Variar também entre carrosseis diferentes** — não repetir a mesma sequência de layouts da peça anterior. Registrar os layouts usados no `carousel-text.md` para referência futura.
+
+**Último slide — quando o CTA envolver agendamento, contato ou atendimento:**
+- Usar imagem do Dr. Diler como elemento principal do layout
+- Seguir o fluxo de escolha de imagem de `identidade-visual.md`: primeiro `conhecimento/fotos-cliente/`, depois Drive (subpasta mais recente)
+- Se a pasta `fotos-cliente/` estiver vazia e não houver indicação de foto específica, avisar antes de criar o slide e perguntar se deseja uma exceção ou fornece a imagem
+- Exceções (CTA sem foto) são permitidas quando indicadas explicitamente
 
 4. Salvar HTMLs em `CLIENTE_Dr-Diler/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/instagram/`
 5. Renderizar slide 1 primeiro:
