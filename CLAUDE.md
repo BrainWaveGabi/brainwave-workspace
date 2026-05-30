@@ -24,19 +24,38 @@ Workspace operacional da BrainWave. Aqui organizamos a operação da agência, p
 ```
 [cliente]/
 ├── CLIENTE.md
+├── skills/                        ← skills específicas do cliente
+├── planejamento/                  ← planos mensais e calendários editoriais
 ├── comercial/
 ├── conhecimento/
+│   └── identidade-visual/         ← diretrizes criativas, links de acervo, exemplos
 ├── conteudo/
-│   ├── capas/reels/
-│   ├── capas/thumbnails/
-│   ├── carrosseis/
-│   ├── google/
-│   ├── material-educativo/
-│   ├── reels/
-│   └── youtube/
+│   ├── estaticos/
+│   │   ├── carrosseis/
+│   │   ├── cards/
+│   │   └── capas/
+│   │       ├── reels/
+│   │       └── thumbnails/
+│   ├── roteiros-curtos/           ← roteiros de reels e vídeos curtos
+│   ├── youtube/
+│   ├── blog/
+│   └── google/
 ├── dados/
 ├── site/
 └── trafego/
+```
+
+**Estrutura adicional exclusiva do CLIENTE_BrainWave:**
+```
+CLIENTE_BrainWave/
+├── [mesma estrutura acima]
+├── comercial/
+│   └── propostas/
+├── administrativo/
+│   └── contratos/
+└── operacional/
+    ├── onboarding/
+    └── processos/
 ```
 
 ## Sobre o negócio
