@@ -116,18 +116,24 @@ CLIENTE_Dr-Diler/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/
 
 ---
 
-### Fase 4 — Versão TikTok (opcional)
+### Fase 4 — Versão TikTok
 
-Após finalizar Instagram, perguntar:
-> "Quer a versão TikTok também? (1080×1920, formato vertical)"
+Após todos os slides de Instagram serem renderizados e aprovados, **sempre perguntar:**
+> "Quer adaptar para TikTok também? (formato vertical 1080×1920)"
 
 Se sim:
-- Adaptar HTMLs: height 1920px, ajustar padding e tamanho de fonte
+- Duplicar os HTMLs do Instagram para a pasta `tiktok/`
+- Adaptar cada arquivo:
+  - `height: 1920px` no container principal
+  - Aumentar padding vertical (mínimo 120px topo e base)
+  - Aumentar fonte de corpo em ~15% para compensar a tela mais alta
+  - Reposicionar elementos que ficarem mal distribuídos no vertical
 - Renderizar:
   ```bash
   npx playwright screenshot --viewport-size=1080,1920 --full-page "file:///[caminho-absoluto]/slide-XX.html" "slide-XX.png"
   ```
-- Salvar em `CLIENTE_Dr-Diler/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/tiktok/`
+- Salvar PNGs em `CLIENTE_Dr-Diler/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/tiktok/`
+- Mostrar slide 1 do TikTok antes de renderizar os demais — aguardar confirmação
 
 ---
 
