@@ -15,7 +15,9 @@
       "Bash(touch __TRACKED_VAR__/comercial/kommo/.gitkeep)",
       "Bash(mkdir -p __TRACKED_VAR__/comercial/manychat)",
       "Bash(touch __TRACKED_VAR__/comercial/manychat/.gitkeep)",
-      "Bash(mkdir -p __TRACKED_VAR__/conhecimento/fotos-cliente)"
+      "Bash(mkdir -p __TRACKED_VAR__/conhecimento/fotos-cliente)",
+      "Bash(find ~/.claude -name \"*.md\" | grep -i isabel | head -20 *)",
+      "Read(//Users/gabriellafreitas/.claude/**)"
     ]
   },
   "hooks": {
