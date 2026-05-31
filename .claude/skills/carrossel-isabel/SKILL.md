@@ -65,6 +65,8 @@ CLIENTE_Dra-Isabel-Carazzo/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/
 | **Último — CTA** | Ação leve | Compartilhar / salvar / comentar. No orgânico, usar "Agende sua consulta pelo link na bio" apenas quando o contexto pedir claramente. Quando o CTA envolver agendamento, usar imagem da Dra. Isabel nesse slide (ver Fase 3) |
 
 **Regras de texto:**
+- Tom conversacional, não professoral. O leitor deve sentir que está ouvindo a Dra. Isabel, não lendo um artigo. Informativo e fluido ao mesmo tempo
+- Cards de miolo: menos texto, mais ritmo. Cada card carrega uma ideia só, dita de forma natural. A legenda aprofunda com dados e informações adicionais que não cabem nos slides sem pesar o tom
 - Frases curtas e diretas — estilo fala, não artigo
 - Sem travessão (—), sem excesso de pontuação
 - Consistência narrativa obrigatória: o conceito apresentado na capa deve se manter nos cards seguintes. Não introduzir ângulo diferente sem transição clara. Ex: capa fala de bruxismo do sono → desenvolvimento fala de bruxismo do sono, não mudar para bruxismo acordado sem justificar a conexão
