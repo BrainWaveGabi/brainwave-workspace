@@ -57,9 +57,9 @@ CLIENTE_Dra-Isabel-Carazzo/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/
 
 | Slide | Função | Orientação |
 |-------|---------|------------|
-| **1 — Capa** | Para o scroll, define o tema | 3 opções de headline (máx. 8 palavras) + subtítulo curto. Usuário escolhe antes de continuar |
-| **2 — Segunda headline + contexto** | Reforça o gancho, apresenta o problema ou a situação | 1 afirmação forte + 2-3 linhas de contextualização. Soa como a Dra. Isabel abrindo o assunto no consultório |
-| **3–5 — Desenvolvimento** | Explica o mecanismo, mostra variação de casos | 1 ideia por slide, com lógica: "isso acontece porque…". Permitido ter "tem paciente que X… tem paciente que Y" |
+| **1 — Capa** | Para o scroll, define o tema | 3 opções de headline. Pode ser frase (máx. 8 palavras) ou dado específico no formato "Tema: número antes → número hoje". Usuário escolhe antes de continuar |
+| **2 — Segunda headline + introdução** | Reforça o gancho E abre o caminho para o desenvolvimento | Funciona como segunda headline E como ponte: conecta o dado ou afirmação da capa com o raciocínio que vem a seguir. Deve responder "por que isso acontece" em 2-3 linhas. Soa como a Dra. Isabel abrindo o assunto no consultório |
+| **3–5 — Desenvolvimento** | Explica o mecanismo, mostra variação de casos | 1 ideia por slide, com lógica: "isso acontece porque…". Sem título nos cards de miolo — exceto em carrosseis estilo lista. Permitido ter "tem paciente que X… tem paciente que Y" |
 | **6 — Contraponto** | Quebra expectativa ou desfaz crença errada | "Na teoria parece que… mas na prática não é bem assim." Reforça diferenciação clínica |
 | **7–8 — Implicação** | O que isso muda para quem está lendo | Direto, sem clichê. Validação do paciente se pertinente |
 | **Último — CTA** | Ação leve | Compartilhar / salvar / comentar. No orgânico, usar "Agende sua consulta pelo link na bio" apenas quando o contexto pedir claramente. Quando o CTA envolver agendamento, usar imagem da Dra. Isabel nesse slide (ver Fase 3) |
@@ -67,6 +67,7 @@ CLIENTE_Dra-Isabel-Carazzo/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/
 **Regras de texto:**
 - Frases curtas e diretas — estilo fala, não artigo
 - Sem travessão (—), sem excesso de pontuação
+- Consistência narrativa obrigatória: o conceito apresentado na capa deve se manter nos cards seguintes. Não introduzir ângulo diferente sem transição clara. Ex: capa fala de bruxismo do sono → desenvolvimento fala de bruxismo do sono, não mudar para bruxismo acordado sem justificar a conexão
 - Sem fórmulas genéricas: "você merece", "aprenda a", "descubra os segredos"
 - CTA padrão: "Agende sua consulta" — nunca "avaliação gratuita"
 - "Desconto" é proibido — usar "condição facilitada" ou "parcelamento sem juros"
