@@ -10,7 +10,12 @@
       "mcp__claude_ai_Notion__notion-create-pages",
       "Read(//temp/readonly/**)",
       "mcp__claude_ai_Notion__notion-update-page",
-      "mcp__claude_ai_Canva__list-brand-kits"
+      "mcp__claude_ai_Canva__list-brand-kits",
+      "Bash(mkdir -p __TRACKED_VAR__/comercial/kommo)",
+      "Bash(touch __TRACKED_VAR__/comercial/kommo/.gitkeep)",
+      "Bash(mkdir -p __TRACKED_VAR__/comercial/manychat)",
+      "Bash(touch __TRACKED_VAR__/comercial/manychat/.gitkeep)",
+      "Bash(mkdir -p __TRACKED_VAR__/conhecimento/fotos-cliente)"
     ]
   },
   "hooks": {
