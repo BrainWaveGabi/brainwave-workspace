@@ -12,8 +12,7 @@ description: >
 
 ## Dependências
 - `CLIENTE_Dra-Isabel-Carazzo/CLIENTE.md` — linhas editoriais, tom de voz, compliance CFO
-- `CLIENTE_Dra-Isabel-Carazzo/conhecimento/identidade-visual/` — diretrizes criativas
-  *(se vazio, carregar via Drive MCP: file ID `1DqlnZ0ZuSsvfXSqLumZUMi6gRSKRytd7`)*
+- `CLIENTE_Dra-Isabel-Carazzo/conhecimento/identidade-visual/` — diretrizes criativas (PDF + logos disponíveis localmente)
 - `_contexto/preferencias.md` — regras gerais de escrita
 
 ## Output
@@ -87,8 +86,8 @@ CLIENTE_Dra-Isabel-Carazzo/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/
 > Se não estiver instalado: `npx playwright install chromium`
 
 1. Carregar identidade visual:
-   - Verificar se existe arquivo em `CLIENTE_Dra-Isabel-Carazzo/conhecimento/identidade-visual/`
-   - Se vazio, carregar via Drive MCP: `mcp__claude_ai_Google_Drive__read_file_content` com file ID `1DqlnZ0ZuSsvfXSqLumZUMi6gRSKRytd7`
+   - Ler o PDF em `CLIENTE_Dra-Isabel-Carazzo/conhecimento/identidade-visual/Diretriz de Identidade Visual 2025 - DRA ISABEL.pdf`
+   - Logos disponíveis em `conhecimento/identidade-visual/Logomarca/`
    - Extrair: paleta de cores, tipografia, elementos visuais recorrentes
 
 2. Estilo geral: premium e humanizado. Alto padrão sem parecer frio. Tecnologia aparente com calor humano.
@@ -155,7 +154,7 @@ Salvar `carousel-text.md` em `CLIENTE_Dra-Isabel-Carazzo/conteudo/estaticos/carr
 - Copy de todos os slides
 - Legenda completa
 - Layouts utilizados (para variação na próxima peça)
-- Briefing visual para o Igor (designer) se a Fase 3 não for executada
+- Briefing visual para o DESIGNER se a Fase 3 não for executada
 
 ---
 

@@ -11,8 +11,7 @@ description: >
 ## Dependências
 
 - `CLIENTE_Dra-Isabel-Carazzo/CLIENTE.md` — tom de voz, compliance CFO, linhas editoriais
-- `CLIENTE_Dra-Isabel-Carazzo/conhecimento/identidade-visual/` — cores, tipografia, fluxo de imagem
-  *(se vazio, carregar via Drive MCP: file ID `1DqlnZ0ZuSsvfXSqLumZUMi6gRSKRytd7`)*
+- `CLIENTE_Dra-Isabel-Carazzo/conhecimento/identidade-visual/` — cores, tipografia, fluxo de imagem (PDF + logos disponíveis localmente)
 - `_contexto/preferencias.md` — regras gerais de escrita
 
 ## Output
@@ -101,8 +100,8 @@ Regras para capa de reels:
 > Se não instalado: `npx playwright install chromium`
 
 Carregar identidade visual:
-1. Verificar se existe arquivo em `CLIENTE_Dra-Isabel-Carazzo/conhecimento/identidade-visual/`
-2. Se vazio, carregar via Drive MCP: `mcp__claude_ai_Google_Drive__read_file_content` com file ID `1DqlnZ0ZuSsvfXSqLumZUMi6gRSKRytd7`
+1. Ler o PDF em `CLIENTE_Dra-Isabel-Carazzo/conhecimento/identidade-visual/Diretriz de Identidade Visual 2025 - DRA ISABEL.pdf`
+2. Logos disponíveis em `conhecimento/identidade-visual/Logomarca/`
 3. Extrair: paleta de cores, tipografia, elementos visuais recorrentes
 
 Estilo geral: premium e humanizado. Alto padrão sem parecer frio. Tecnologia aparente com calor humano.
