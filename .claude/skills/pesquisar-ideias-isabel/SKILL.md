@@ -17,6 +17,8 @@ description: >
 
 ## Dependências
 - `CLIENTE_Dra-Isabel-Carazzo/CLIENTE.md` — linhas editoriais, público, tom de voz, SEO prioritário
+- `CLIENTE_Dra-Isabel-Carazzo/conhecimento/producao-academica/artigos-e-publicacoes/` — artigos e publicações da Dra. Isabel (usar como referência de autoridade e ângulo)
+- `CLIENTE_Dra-Isabel-Carazzo/conhecimento/producao-academica/transcricoes/` — transcrições de vídeos e reuniões (calibrar tom de voz e temas já abordados)
 - `_contexto/preferencias.md` — regras gerais de escrita
 
 ---

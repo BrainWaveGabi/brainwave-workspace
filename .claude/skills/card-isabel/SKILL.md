@@ -12,6 +12,7 @@ description: >
 
 - `CLIENTE_Dra-Isabel-Carazzo/CLIENTE.md` — tom de voz, compliance CFO, linhas editoriais
 - `CLIENTE_Dra-Isabel-Carazzo/conhecimento/identidade-visual/` — cores, tipografia, fluxo de imagem (PDF + logos disponíveis localmente)
+- `CLIENTE_Dra-Isabel-Carazzo/conhecimento/producao-academica/` — artigos, publicações e transcrições para referência de conteúdo
 - `_contexto/preferencias.md` — regras gerais de escrita
 
 ## Output

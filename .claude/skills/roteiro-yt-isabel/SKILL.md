@@ -19,6 +19,8 @@ description: >
 ## Dependências
 - `clientes/dra-isabel-carazzo/CLIENTE.md` — objetivos do canal, temas, tom de voz
 - `clientes/dra-isabel-carazzo/conhecimento/` — transcrições, entrevistas, referências
+- `clientes/dra-isabel-carazzo/conhecimento/producao-academica/artigos-e-publicacoes/` — artigos e publicações da Dra. Isabel
+- `clientes/dra-isabel-carazzo/conhecimento/producao-academica/transcricoes/` — transcrições de vídeos e reuniões
 - `_contexto/preferencias.md` — regras gerais de escrita
 - `.claude/skills/planejar-conteudo/diretrizes-conselhos.md` — diretrizes do CFO
 
@@ -162,7 +164,7 @@ Antes de entregar:
 
 ## Regras
 
-- Ler `clientes/dra-isabel-carazzo/conhecimento/` antes de escrever
+- Ler `clientes/dra-isabel-carazzo/conhecimento/` antes de escrever — priorizar `producao-academica/` quando existir conteúdo relevante
 - Tom de voz segue a Isabel, não a BrainWave
 - Roteiro escrito para ser falado — frases naturais, não texto de blog
 - Sem indicações de montagem, câmera ou edição no roteiro

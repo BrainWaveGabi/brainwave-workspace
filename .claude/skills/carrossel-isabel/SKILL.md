@@ -13,6 +13,8 @@ description: >
 ## Dependências
 - `CLIENTE_Dra-Isabel-Carazzo/CLIENTE.md` — linhas editoriais, tom de voz, compliance CFO
 - `CLIENTE_Dra-Isabel-Carazzo/conhecimento/identidade-visual/` — diretrizes criativas (PDF + logos disponíveis localmente)
+- `CLIENTE_Dra-Isabel-Carazzo/conhecimento/producao-academica/artigos-e-publicacoes/` — artigos e publicações da Dra. Isabel
+- `CLIENTE_Dra-Isabel-Carazzo/conhecimento/producao-academica/transcricoes/` — transcrições de vídeos e reuniões
 - `_contexto/preferencias.md` — regras gerais de escrita
 
 ## Output

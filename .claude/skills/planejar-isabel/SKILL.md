@@ -18,6 +18,8 @@ description: >
 ## Dependências
 - `clientes/dra-isabel-carazzo/CLIENTE.md` — linhas editoriais, mix semanal, tom de voz
 - `clientes/dra-isabel-carazzo/conhecimento/` — transcrições, lives, entrevistas, referências
+- `clientes/dra-isabel-carazzo/conhecimento/producao-academica/artigos-e-publicacoes/` — artigos e publicações da Dra. Isabel
+- `clientes/dra-isabel-carazzo/conhecimento/producao-academica/transcricoes/` — transcrições de vídeos e reuniões
 - `_contexto/preferencias.md` — regras gerais de escrita
 - `.claude/skills/planejar-conteudo/diretrizes-conselhos.md` — diretrizes do CFO
 
@@ -45,7 +47,7 @@ Ler `clientes/dra-isabel-carazzo/CLIENTE.md` e extrair:
 - Mix semanal (quantos por semana, por linha)
 - Formatos ativos e canais
 
-Ler materiais em `clientes/dra-isabel-carazzo/conhecimento/` para calibrar linguagem e repertório da Dra. Isabel.
+Ler materiais em `clientes/dra-isabel-carazzo/conhecimento/` para calibrar linguagem e repertório da Dra. Isabel. Priorizar transcrições em `producao-academica/transcricoes/` e artigos em `producao-academica/artigos-e-publicacoes/` quando existirem.
 
 Carregar diretrizes do CFO em `.claude/skills/planejar-conteudo/diretrizes-conselhos.md`.
 
@@ -121,7 +123,7 @@ Antes de apresentar cada peça:
 
 ## Regras
 
-- Ler `clientes/dra-isabel-carazzo/conhecimento/` antes de escrever
+- Ler `clientes/dra-isabel-carazzo/conhecimento/` antes de escrever — priorizar `producao-academica/` quando existir conteúdo relevante
 - Tom de voz segue a Dra. Isabel, não a BrainWave
 - Hook funciona com e sem som
 - Legenda aprofunda — nunca resume
