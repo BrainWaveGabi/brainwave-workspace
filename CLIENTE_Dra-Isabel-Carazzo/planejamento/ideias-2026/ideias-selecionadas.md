@@ -109,7 +109,7 @@
 
 ---
 
-### 30. Implante e autoestima: o que muda na vida das pessoas além do dente
+### ✅ 30. Implante e autoestima: o que muda na vida das pessoas além do dente
 **Linha:** Implantes | **Funil:** Topo | **Formato:** Reels
 **Ângulo:** emocional — depoimento narrativo, não clínico. "Voltei a sorrir em fotos"
 **Fio sedação/medo:** pode fechar com "e foi com sedação que consegui chegar até aqui"
