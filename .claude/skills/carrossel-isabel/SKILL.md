@@ -78,8 +78,8 @@ CLIENTE_Dra-Isabel-Carazzo/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/
 
 **Legenda (separada dos slides):**
 - Aprofunda o conteúdo — nunca resume nem repete os slides
-- Disclaimer obrigatório: *Este conteúdo é apenas informativo e não substitui a avaliação com um cirurgião-dentista.*
 - 5 hashtags
+- Disclaimer obrigatório após as hashtags: *Este conteúdo tem caráter educativo e não substitui avaliação clínica individualizada.*
 
 **CHECKPOINT:** mostrar as 3 opções de capa + texto completo de todos os slides. Aguardar aprovação antes de seguir para Fase 3.
 
@@ -91,27 +91,64 @@ CLIENTE_Dra-Isabel-Carazzo/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/
 > Se não estiver instalado: `npx playwright install chromium`
 
 1. Carregar identidade visual:
-   - Ler o PDF em `CLIENTE_Dra-Isabel-Carazzo/conhecimento/identidade-visual/Diretriz de Identidade Visual 2025 - DRA ISABEL.pdf`
    - Logos disponíveis em `conhecimento/identidade-visual/Logomarca/`
-   - Extrair: paleta de cores, tipografia, elementos visuais recorrentes
+   - Referências visuais de carrosséis aprovados: `conhecimento/referencias-criativas/`
 
 2. Estilo geral: premium e humanizado. Alto padrão sem parecer frio. Tecnologia aparente com calor humano.
 
-3. Criar HTMLs (1080×1350px, inline CSS, Google Fonts como única dependência externa)
+3. **Perguntas obrigatórias antes de criar os HTMLs:**
+
+   a. "A capa vai ter foto da Dra. Isabel ou imagem temática?"
+      - Com foto da Dra.: foto em destaque, headline sobreposta ou lado a lado
+      - Com imagem temática: stock lifestyle ou conceitual com overlay dark navy (~65% opacidade)
+
+   b. "Para o último slide, qual foto da Dra. Isabel usar?" — verificar opções em `conhecimento/fotos-cliente/Fotos profissionais 2024/` e indicar os nomes dos arquivos disponíveis
+
+   c. Se o carrossel for sobre sedação consciente ou medo de dentista: "Quer estilo emocional com imagens vintage/preto-e-branco ou o padrão da marca?"
+
+   d. Se houver slide com dado de estudo: confirmar se há print ou link disponível
+
+4. Criar HTMLs (1080×1350px, inline CSS, Google Fonts como única dependência externa)
+
+---
+
+**Padrões visuais observados nas referências — aplicar em todos os carrosséis:**
+
+**Uso da foto da Dra. Isabel:**
+- Capa: opcional — definido na pergunta (3a) acima
+- Slides de miolo: máximo 1 aparição, apenas em slides de autoridade ou transição narrativa
+- Último slide: sempre quando o CTA envolve agendamento ou contato
+  - Posição padrão: metade direita do slide, texto à esquerda
+  - Elemento de texto recorrente antes do CTA: "E você?"
+  - Foto disponível em `conhecimento/fotos-cliente/Fotos profissionais 2024/`
+
+**Imagens de stock:**
+- Sempre imagens de pessoas em situações emocionalmente reconhecíveis: cobrindo a boca, expressão de tensão, alívio, sorrindo
+- Evitar fotos anatômicas ou clínicas de baixa qualidade editorial
+- Aplicar overlay dark (navy/teal, opacidade ~65%) sobre qualquer imagem usada como fundo completo
+
+**Paleta por tipo de slide:**
+- Texto puro: navy/teal escuro (#1B3A4B aprox.) + texto branco
+- Dado de estudo em destaque: fundo branco ou claro, número grande, fonte do estudo em texto pequeno, logo no canto inferior direito
+- Conteúdo emocional de sedação/medo: aceita imagens vintage ou preto-e-branco com overlay escuro — tom mais dramático que o padrão
+- Conteúdo estético (facetas, clareamento, DSD): paleta mais clara, imagens de sorrisos, layout limpo e luminoso
+- Destaques em gold/âmbar: títulos de capa e dados numéricos de impacto
 
 **Variação de layout — obrigatória:**
 - Nunca fazer todos os slides com layout idêntico
 - Usar pelo menos 3 layouts diferentes por carrossel:
-  - `texto-simples` — fundo sólido, texto centralizado
-  - `destaque-numerico` — número ou dado grande em evidência
-  - `citacao` — frase em destaque com barra lateral
-  - `card-bordado` — card com borda e fundo levemente diferente
-  - `imagem-fundo` — texto sobre imagem com gradiente e sombra forte
+  - `texto-simples` — fundo sólido navy, texto centralizado em branco
+  - `destaque-numerico` — número ou dado grande em evidência, fundo claro
+  - `citacao` — frase em destaque com barra lateral ou aspas visuais
+  - `split` — metade imagem / metade bloco de cor com texto
+  - `imagem-fundo` — texto sobre imagem com overlay dark navy e gradiente
+  - `card-bordado` — card com borda e fundo levemente diferente do slide
 - **Variar também entre carrosseis diferentes** — não repetir a mesma sequência de layouts da peça anterior. Registrar os layouts usados no `carousel-text.md` para referência futura.
 
 **Último slide — quando o CTA envolver agendamento ou contato:**
 - Usar imagem da Dra. Isabel como elemento principal do layout
-- Fluxo de escolha: primeiro `conhecimento/fotos-cliente/`, se vazio avisar e perguntar antes de criar
+- Incluir "E você?" como elemento de texto antes do CTA
+- Fluxo de escolha: primeiro `conhecimento/fotos-cliente/Fotos profissionais 2024/`, listar arquivos disponíveis e perguntar qual usar
 
 4. Salvar HTMLs em `CLIENTE_Dra-Isabel-Carazzo/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/instagram/`
 5. Renderizar slide 1 primeiro:
