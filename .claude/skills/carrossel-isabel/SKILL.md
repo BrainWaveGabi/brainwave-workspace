@@ -122,10 +122,22 @@ CLIENTE_Dra-Isabel-Carazzo/conteudo/estaticos/carrosseis/[tema-YYYYMMDD]/
   - Elemento de texto recorrente antes do CTA: "E você?"
   - Foto disponível em `conhecimento/fotos-cliente/Fotos profissionais 2024/`
 
-**Imagens de stock:**
-- Sempre imagens de pessoas em situações emocionalmente reconhecíveis: cobrindo a boca, expressão de tensão, alívio, sorrindo
-- Evitar fotos anatômicas ou clínicas de baixa qualidade editorial
-- Aplicar overlay dark (navy/teal, opacidade ~65%) sobre qualquer imagem usada como fundo completo
+**Uso de imagens — duas modalidades:**
+
+Modalidade 1 — como fundo (full-bleed):
+- A imagem ocupa o fundo do slide. Pode ser stock ou foto real da Dra./clínica
+- 1a. Com overlay: aplicar cor da paleta sobre a imagem (não necessariamente navy — pode ser qualquer cor da identidade visual). Válido para stock e fotos reais
+- 1b. Sem overlay: usar apenas com fotos reais (nunca stock). Nesse caso o texto entra dentro de uma caixa/box para garantir leitura. Não aplicar texto solto sobre a imagem
+
+Modalidade 2 — imagem recortada:
+- A imagem é recortada (sem fundo) e posicionada como elemento visual no slide
+- Usada principalmente nos slides de miolo
+- Pode criar sensação de continuidade entre cards: a imagem começa em um card e termina no seguinte (efeito panorâmico)
+- Elementos gráficos como caixas, linhas e formas geométricas seguem a mesma lógica de continuidade e podem ser usados junto ou separado das imagens
+
+Sempre usar imagens de pessoas em situações emocionalmente reconhecíveis: cobrindo a boca, expressão de tensão, alívio, sorrindo. Evitar fotos anatômicas ou clínicas de baixa qualidade editorial.
+
+**Variedade de elementos é obrigatória** — alternar entre as modalidades e com slides de texto puro. Não usar o mesmo tratamento em todos os slides do mesmo carrossel.
 
 **Paleta por tipo de slide:**
 - Texto puro: navy/teal escuro (#1B3A4B aprox.) + texto branco
