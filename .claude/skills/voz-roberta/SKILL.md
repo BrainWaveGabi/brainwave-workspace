@@ -165,13 +165,18 @@ Essa é a maior força da Roberta. Ela coloca nome em dores que a persona vive e
 
 ### Padrões de encerramento / CTA
 
+**Toda legenda termina com pergunta interativa.** Variar sempre — não usar a mesma fórmula em conteúdos seguidos.
+
+Exemplos aprovados:
 - "O que mais tem sido difícil para você no seu luto hoje? (Se sentir que esse espaço te acolhe, compartilhe)"
+- "Você já vivenciou essa experiência? Compartilhe nos comentários. As suas palavras podem ser aquilo que alguém precisa ler hoje."
 - "Faz sentido para você? Compartilhe nos comentários."
 - "Se isso tocou você, compartilhe com alguém que talvez ainda esteja tentando viver sem se sentir culpado."
 - "Me chame no direct se precisar de apoio nessa reconstrução."
-- "Eu vejo você. E estou aqui com você e para você."
 - "Que sejamos lanternas, uns dos outros, diante da escuridão do luto."
 - "Você não precisa atravessar isso sozinha."
+
+"Eu vejo você." é uma frase da voz da Roberta — pode aparecer no corpo da legenda quando fizer sentido, mas **não é o encerramento padrão automático**. A legenda fecha com pergunta, não com essa frase.
 
 ---
 
@@ -198,6 +203,26 @@ Um emprego que ficou para trás.
 
 Um projeto de vida que não vai mais acontecer.
 ```
+
+---
+
+## Estrutura — Reels
+
+### Roteiro
+
+- Duração-alvo: **90 segundos**
+- Gancho nos primeiros 3s — funciona com e sem som
+- Desenvolvimento em blocos com pausa dramática entre eles
+- CTA na fala e reforçado na legenda
+- Frases curtas, uma ideia por respiro
+
+### Legendas de Reels padrão
+
+Aprofundam o tema. Não resumem nem repetem o vídeo. Terminam com pergunta interativa variada.
+
+### Legendas de Reels de Caixinhas de Perguntas
+
+Regra específica: a legenda **não traz nova camada de conteúdo** — o vídeo já faz isso. A legenda deve ser **mais sucinta** que as demais, com foco em CTA que estimule engajamento. Nada de aprofundamento adicional.
 
 ---
 
@@ -282,10 +307,14 @@ Luto Sistêmico, Método 8 Estágios do Luto Sistêmico, Luto Parental, Luto Ant
 - [ ] Nenhuma promessa de cura, superação ou resultado?
 - [ ] Nenhum "MAS" invalidando emoção?
 - [ ] Nenhuma frase de contraste ("não é X, é Y" no estilo autoajuda)?
+- [ ] Nenhum "a gente" — só "nós"?
+- [ ] Nenhum "Muitas pessoas"?
 - [ ] Tom mantém-se calmo, pausado, acolhedor?
 - [ ] Técnico integrado na fala, não em bloco separado?
-- [ ] Pergunta de engajamento antes do CTA?
-- [ ] "Eu vejo você" ou variação no encerramento?
+- [ ] Legenda termina com pergunta interativa variada (não "Eu vejo você" automático)?
+- [ ] Se caixinha de perguntas: legenda sucinta, só CTA, sem nova camada de conteúdo?
+- [ ] Se reel: roteiro pensado para 90s?
+- [ ] Se carrossel: card 2 funciona como segunda capa com frase de impacto?
 - [ ] Sem travessão (—)?
-- [ ] Hashtags com `#lutosistêmico` e `#robertabarni`?
+- [ ] 5 hashtags com `#lutosistêmico` e `#robertabarni` entre elas?
 - [ ] Disclaimer (se necessário) separado por linha em branco?
