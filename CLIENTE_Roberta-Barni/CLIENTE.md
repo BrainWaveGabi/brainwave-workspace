@@ -189,6 +189,11 @@ Todos os documentos são acessíveis via MCP do Google Drive. Ler antes de gerar
   https://docs.google.com/document/d/1AgueeCPgG0AXqZaagbNQ86WBDH4035ZIc1oRtQE0xs0/edit
   *(ID: 1AgueeCPgG0AXqZaagbNQ86WBDH4035ZIc1oRtQE0xs0)*
 
+### Análise de performance
+- **Planilha de análise e comparação de dados de conteúdo (Instagram):**
+  https://docs.google.com/spreadsheets/d/1Xxo7K5cac8zEIzX0VwR2E-COmXTaR6lIKH0QS7o3z80/edit
+  *(ID: 1Xxo7K5cac8zEIzX0VwR2E-COmXTaR6lIKH0QS7o3z80 — colunas: data, link, tema, formato, visualização, compartilhamento, salvamento, repost, novos seguidores, % não seguidores)*
+
 ### Conteúdo de referência (usar como base para copy)
 - **Conteúdos virais — formato B-roll (texto na tela + música):**
   https://docs.google.com/document/d/1z2I2yaEHIuAHsLQDph4URIdSu8jGveP3P52rZCV4LSY/edit
