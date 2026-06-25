@@ -179,11 +179,11 @@ Essa é a maior força da Roberta. Ela coloca nome em dores que a persona vive e
 
 ### Anatomia de um carrossel aprovado
 
-- **Card 1 (capa):** Headline direta. Máximo 1 linha. Pode ser uma frase de impacto ou pergunta.
-- **Card 2:** Contexto ou segunda frase de impacto. Abre o tema.
+- **Card 1 (capa):** Headline direta. Máximo 1 linha. Pode ser uma frase de impacto ou pergunta. Alto potencial de SEO — priorizar palavras como "luto", "dor", "perda", "morte".
+- **Card 2 (segunda capa):** Frase de impacto forte. Funciona como segunda headline. Conecta a capa com o assunto que vai ser desenvolvido. Não é ainda conteúdo — é transição com peso.
 - **Cards do meio:** Uma ideia por card. 3 a 5 linhas. Progressão clara.
 - **Card final:** CTA ou pergunta de engajamento. "Compartilhe com quem..."
-- **Legenda:** Vai além do carrossel. Mais pessoal. Mais densa. Pode trazer experiência própria da Roberta.
+- **Legenda:** Vai além do carrossel. Mais pessoal. Mais densa. Pode trazer experiência própria da Roberta. Termina com pergunta interativa variada.
 
 ### Ritmo dos cards
 
@@ -207,6 +207,7 @@ Um projeto de vida que não vai mais acontecer.
 
 - "MAS" para invalidar a emoção anterior ("você sofre, MAS vai passar", "é difícil, MAS você consegue"). Usar "Mas" como conector simples é aceito nos aprovados.
 - "Muitas pessoas" — genérico demais
+- "a gente" — usar sempre "nós"
 - "Dra." — ela é Psicóloga, nunca Doutora
 - "Programa" para o GAPE — é psicoterapia em grupo
 - "Avaliação gratuita" — é sempre consulta
@@ -223,6 +224,8 @@ Um projeto de vida que não vai mais acontecer.
 - Apressar o processo
 - Separar a explicação técnica do texto de forma didática/fria — o técnico entra na fala como parte do acolhimento
 - Repetir na legenda o que o vídeo/carrossel já disse — a legenda expande, não resume
+- Terminar legenda sem pergunta interativa — toda legenda termina com pergunta que convida partilha (exceto caixinhas — ver abaixo)
+- Usar "Eu vejo você" como encerramento padrão em toda legenda — variar. A frase existe na voz da Roberta, mas não é CTA final automático
 
 ---
 
