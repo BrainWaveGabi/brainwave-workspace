@@ -22,7 +22,8 @@ description: >
 - `CLIENTE_Roberta-Barni/CLIENTE.md` — temas, mix, persona, diretrizes CFP, links do acervo no Google Drive, estrutura do Notion
 - `.claude/skills/voz-roberta/SKILL.md` — **documento de Princípios Globais.** Guia de voz, vocabulário proibido, estruturas vetadas, checklist. É atualizado a cada lote (Fase 0 e Fase 6) — sempre a versão mais recente de "o que a Roberta já corrigiu"
 - Acervo no Google Drive (links no CLIENTE.md): legendas e roteiros aprovados, roteiros de gravação, conteúdos virais transcritos (B-roll, podcast, texto), transcrições de feedback da Roberta
-- Planilha de análise de performance (Notion/SAFSM + mLabs) — link no CLIENTE.md
+- Relatórios mensais do mLabs em `CLIENTE_Roberta-Barni/dados/` — fonte primária de performance
+- Planilha de análise de performance no Notion/SAFSM — usar como complemento (dado recente ou link por post) se houver necessidade de cruzar com o acervo.
 - Memória do Claude (`_contexto/` / auto-memory) — correções permanentes da Roberta já registradas
 
 Este fluxo é o de **produção de roteiro** (o "como escrever certo, sem repetir e sem perder feedback"). Para decidir formatos/calendário do mês, ver `/planejar-roberta` — as duas skills se complementam: `/planejar-roberta` decide O QUE entra no mês, `/roteiros-roberta` executa a produção com o rigor de auditoria e fechamento de loop.
@@ -56,7 +57,9 @@ Objetivo: garantir que a régua de voz está atualizada antes de gastar qualquer
 
 Objetivo: decidir formatos e territórios temáticos com base em dados, não em intuição.
 
-1. Puxar dados do período (Notion/SAFSM + mLabs, ver link no CLIENTE.md): alcance, compartilhamentos, salvamentos, novos seguidores e conversões por conteúdo.
+1. Puxar dados do período a partir do **relatório mensal do mLabs salvo em `CLIENTE_Roberta-Barni/dados/`** (PDF ou PPTX, ex. `Relatorio Roberta 2026_XX.pdf` / `Analise Mlabs Roberta Barni - 2026-XX.pptx`) — fonte primária. Extrair: alcance, compartilhamentos, salvamentos, novos seguidores e conversões por conteúdo.
+   - Se o relatório do mês ainda não tiver sido salvo em `dados/`, perguntar à Gabriella antes de seguir: "Ainda não tenho o relatório mLabs desse mês em `dados/` — você tem pra subir, ou sigo só com o Notion?"
+   - Usar o Notion/SAFSM apenas como complemento: quando precisar linkar um conteúdo específico a um card, ou pegar dado dos últimos dias que o relatório fechado ainda não cobre.
 2. Identificar os top performers do período e transcrever os que ainda não estiverem no acervo (Google Drive).
 3. Atualizar a engenharia reversa dos virais se houver padrão novo: tipos de gancho, arco emocional, ritmo de frases, gatilhos de compartilhamento (identificação, cuidado com terceiro, curadoria pessoal).
 4. Confirmar com a Gabriella o formato prioritário do lote e a regra de capa do momento (ex.: palavras luto, morte, dor, perda — ou variação vigente).
