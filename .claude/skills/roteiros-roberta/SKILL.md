@@ -22,6 +22,7 @@ description: >
 - `CLIENTE_Roberta-Barni/CLIENTE.md` — temas, mix, persona, diretrizes CFP, links do acervo no Google Drive, estrutura do Notion
 - `.claude/skills/voz-roberta/SKILL.md` — **documento de Princípios Globais.** Guia de voz, vocabulário proibido, estruturas vetadas, checklist. É atualizado a cada lote (Fase 0 e Fase 6) — sempre a versão mais recente de "o que a Roberta já corrigiu"
 - Acervo no Google Drive (links no CLIENTE.md): legendas e roteiros aprovados, roteiros de gravação, conteúdos virais transcritos (B-roll, podcast, texto), transcrições de feedback da Roberta
+- **Pasta consolidada do Drive** (fonte principal para Fase 2): https://drive.google.com/drive/folders/1HIW7ht8HvBez1Nexg7N1-Cg22gF6NpIN — reúne todos os docs de conteúdos virais (com data de publicação) e os textos aprovados por formato. É a fonte de auditoria anti-repetição e de calibração contínua de voz — não usar Notion para essas checagens
 - Relatórios mensais do mLabs em `CLIENTE_Roberta-Barni/dados/` — fonte primária de performance
 - Planilha de análise de performance no Notion/SAFSM — usar como complemento (dado recente ou link por post) se houver necessidade de cruzar com o acervo.
 - Memória do Claude (`_contexto/` / auto-memory) — correções permanentes da Roberta já registradas
@@ -72,17 +73,31 @@ Entregar um diagnóstico curto (poucas linhas): formatos vencedores, território
 
 Esta é a fase crítica do processo. **A auditoria acontece ANTES de escrever qualquer roteiro** — nunca depois. Escrever um lote inteiro sem essa checagem prévia é o erro que este fluxo existe para eliminar.
 
+**Nada de Notion nesta fase.** Toda a Fase 2 — geração de temas e auditoria — usa exclusivamente o acervo no Google Drive (pasta consolidada, ver Dependências) e web search. O Notion só volta a aparecer na Fase 6, pra registrar status.
+
 ### Passo 1 — Gerar a lista de temas
 
-- Mix 50/50: metade viral/visceral (alto potencial de compartilhamento), metade com embasamento científico ou metodológico (estágios do Método 8 Estágios do Luto Sistêmico, estudos recentes sobre luto).
-- Cada tema vem com: gancho sugerido, etapa do funil e justificativa de performance (ligar ao diagnóstico da Fase 1).
-- Fontes: acervo do Google Drive + tendências da web (WebSearch) + temas e mix do CLIENTE.md + categorias/temas cadastrados no Notion.
+**a. Pesquisar tendências.** WebSearch por temas de maior interesse/busca sobre luto no momento (sazonalidade, datas comemorativas, assuntos em alta).
+
+**b. Comparar com a proporção atual de vídeos por tema.** Levantar, no acervo do Drive, quantos vídeos/roteiros de cada tipo de luto já foram feitos, e comparar com a proporção de referência abaixo. Se não tiver a proporção real recente mapeada, perguntar à Gabriella antes de assumir — mas por padrão, considerar:
+   - Luto Parental: 20-25%
+   - Luto por pai ou mãe: 20%
+   - Luto conjugal: 10%
+   - Restante: dividir entre os demais tipos (antecipatório, simbólico, transgeracional, por pet, ambíguo, etc.)
+   Usar essa comparação pra identificar territórios sub-representados no lote atual.
+
+**c. Analisar virais x relatórios mLabs.** Ler os docs de conteúdos virais na pasta do Drive e cruzar com os relatórios mLabs (`CLIENTE_Roberta-Barni/dados/`) usando a **data de publicação** como chave — é ela que liga um vídeo específico do doc de virais ao resultado numérico dele no relatório. Esse cruzamento é o que confirma "o que performou bem" (não intuição).
+   A mesma pasta do Drive também tem os **textos aprovados por formato** — usar pra calibrar continuamente a escrita, além do que já está em `voz-roberta`.
+
+**Mix obrigatório 50/50:** metade viral/visceral (alto potencial de compartilhamento, informado pelo passo c), metade com embasamento científico ou metodológico (estágios do Método 8 Estágios do Luto Sistêmico, estudos com DOI publicados pós-2022).
+
+Cada tema entra na lista com: gancho sugerido, etapa do funil e justificativa de performance (linkando ao cruzamento do passo c).
 
 ### Passo 2 — Rodar a auditoria anti-repetição (antes de aprovar qualquer tema)
 
-Cruzar cada tema proposto com TODO o acervo:
-- Roteiros já publicados (acervo do Drive)
-- Roteiros já aprovados aguardando gravação (Notion, fase "Aprovar texto" e posteriores)
+Cruzar cada tema proposto com TODO o acervo da pasta do Drive:
+- Roteiros já publicados
+- Roteiros já aprovados aguardando gravação
 - Legendas já publicadas
 
 Apresentar sempre em tabela:
