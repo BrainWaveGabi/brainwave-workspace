@@ -155,6 +155,11 @@ O arquivo PDF com prints dos comentários foi enviado diretamente — acessível
 
 Todos os documentos são acessíveis via MCP do Google Drive. Ler antes de gerar conteúdo.
 
+### Pasta consolidada (fonte principal para auditoria anti-repetição e calibração de voz)
+- **Pasta com todos os docs de conteúdos virais (com data de publicação) + textos aprovados por formato:**
+  https://drive.google.com/drive/folders/1HIW7ht8HvBez1Nexg7N1-Cg22gF6NpIN
+  *(usada pela skill `/roteiros-roberta` na Fase 2 — geração de temas e auditoria anti-repetição não usam Notion, só esta pasta)*
+
 ### Transcrições e feedback
 - **Transcrições de reuniões com a Roberta:**
   https://docs.google.com/document/d/1Uci1nU4_Jqum_3KVdxiWPkLj7q53msHbH4SFoPLlm_c/edit
